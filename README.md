@@ -1,5 +1,7 @@
 # ElementaryHighSchoolSpreadSheetCreatorRelease
 
+SpreadSheetGenerator.zip SHA256: bb8f943bad9faea8753efcc8e05d5e8b4bc02bb4075af0d84dca4a8d1a738f8f
+
 ### За апликацијата
 
 ##### Оваа апликација генерира табела и ја зачувува автоматски на Desktop - table.xlsx (според број на ученици и предмети) со подготвени формули за:
@@ -11,7 +13,6 @@
 - Број на оцени по предмет (Пример: Биологија - 10 петки, 5 четворки, 2 двојки итн...)
 
 ### Начин на користење на апликацијата
-SpreadSheetGenerator.zip SHA256: bb8f943bad9faea8753efcc8e05d5e8b4bc02bb4075af0d84dca4a8d1a738f8f
 
 ![alt text](https://github.com/TheGoodCook155/ElementaryHighSchoolCreatorRel/blob/main/2024-01-14_10h32_32.png)  
 
